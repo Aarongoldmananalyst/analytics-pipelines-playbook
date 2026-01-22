@@ -1,7 +1,8 @@
 # 🧠 HR Attrition Analytics Pipeline  
 ### End-to-End Workforce Intelligence (Executive-Ready)
 
-<img width="1024" height="1536" alt="HR PIPELINE" src="https://github.com/user-attachments/assets/46f62cf4-18a7-4474-8dd1-d15dca158cc7" />
+<img width="1536" height="1024" alt="PLAYBOOK" src="https://github.com/user-attachments/assets/fd6f4ed7-db65-4e2f-a46c-03e3b3656d4f" />
+
 
 
 ---
