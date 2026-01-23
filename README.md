@@ -1,3 +1,107 @@
+# Analytics Pipelines Playbook
+## From Business Questions to Executive Decisions
+
+![Playbook Banner](assets/banners/playbook_banner.png)
+
+A practical playbook demonstrating how I design, build, and deliver end-to-end analytics pipelines that turn messy data into decision-ready insights.
+
+This repository reflects **real-world senior analytics work**, including ELT ingestion, dbt-style transformations, BI dashboards, operational outputs (Alteryx), and executive storytelling across multiple domains.
+
+---
+
+## Why This Repo Exists
+Most analytics portfolios show dashboards.
+This repo shows **how I think, how I build, and how I deliver decisions**.
+
+---
+
+## What’s Inside
+
+- A reusable **analytics pipeline methodology**
+- dbt-style modeling patterns (staging → intermediate → marts)
+- Data quality, governance, and testing practices
+- Experimentation and ROI modeling
+- Real project implementations across domains
+
+---
+
+## The Analytics Framework (End-to-End)
+
+1. Business Framing & Decision Definition  
+2. Data Sources & Governance  
+3. ELT Ingestion (Raw Layer)  
+4. Data Profiling & Quality Checks  
+5. dbt Staging Models  
+6. dbt Intermediate Business Logic  
+7. Analytics MART Layer  
+8. Testing & Documentation  
+9. Analysis, Modeling & Statistics  
+10. BI Dashboards  
+11. Operational Outputs (Alteryx)  
+12. Executive Storytelling  
+13. Impact Tracking & Iteration  
+
+---
+
+## Playbook Chapters
+Start here if you want the methodology:
+
+- Overview → `playbook/00-overview.md`
+- Business Framing → `playbook/01-business-framing.md`
+- ELT & dbt Modeling → `playbook/03-elt-raw-layer.md`
+- Operational Outputs → `playbook/11-operational-outputs-alteryx.md`
+- Executive Storytelling → `playbook/12-executive-storytelling.md`
+
+---
+
+## Flagship Project Implementations
+
+Each project applies the **same pipeline framework** in a different domain.
+
+### ⭐ HR Attrition & Workforce Insights (Featured Example)
+`examples/hr-attrition/`
+
+- End-to-end HR analytics pipeline
+- Attrition drivers, segmentation, and risk analysis
+- Executive dashboards and decision recommendations
+
+### Other Flagship Projects
+- A/B Testing & ROI Analysis → `examples/ab-testing-roi/`
+- $12M Cost-Cut Rx (Healthcare) → `examples/cost-cut-rx/`
+- MarketEdge Retail Analytics → `examples/marketedge-retail/`
+- Future of Tech Skills → `examples/future-tech-skills/`
+- Winning the Space Race with Data Science → `examples/spacex-landing/`
+
+---
+
+## Tech Stack (Typical)
+- SQL • Python • dbt-style transformations
+- Snowflake-style ELT architecture
+- Power BI • Tableau • Cognos
+- Alteryx for operational automation
+
+---
+
+## How to Use This Repo
+- Hiring managers: review the **framework + examples**
+- Analysts: reuse the playbook for new projects
+- Teams: apply the pipeline as a scalable analytics blueprint
+
+---
+
+## License
+Portfolio demonstration use. See `LICENSE`.
+
+
+
+# HR Attrition Analytics Pipeline
+## Workforce Intelligence Using the Analytics Pipelines Playbook
+
+This project is a **full implementation** of the Analytics Pipelines Playbook applied to workforce attrition and retention strategy.
+
+It demonstrates how analytics moves from raw HR data to executive-ready decisions.
+
+
 # 🧠 HR Attrition Analytics Pipeline  
 ### End-to-End Workforce Intelligence (Executive-Ready)
 
@@ -194,3 +298,5 @@ This pipeline reflects how I approach HR analytics in real environments: structu
 ### ⭐ Recruiter Signal
 This is not a tutorial.  
 This is how I actually work.
+
+
