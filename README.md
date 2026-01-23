@@ -295,7 +295,7 @@ It demonstrates how analytics moves from raw HR data to executive-ready decision
 # 🧠 HR Attrition Analytics Pipeline  
 ### End-to-End Workforce Intelligence (Executive-Ready)
 
-<img width="1536" height="1024" alt="PLAYBOOK" src="https://github.com/user-attachments/assets/fd6f4ed7-db65-4e2f-a46c-03e3b3656d4f" />
+
 
 
 
